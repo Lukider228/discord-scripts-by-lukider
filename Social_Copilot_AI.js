@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Discord Social Copilot (AI-Powered)
 // @description   Анализирует переписку в ЛС Discord с помощью ИИ, оценивает вайб отношений и предоставляет живой интерактивный чат-консультант по тактике общения.
-// @namespace     https://github.com/lukider/discordsocialcopilot
+// @namespace     https://github.com/Lukider228/discord-premium-userscripts
 // @version       2.0
 // @match         https://discord.com/*
 // @grant         none

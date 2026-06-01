@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Discord Mass Deleter
 // @description   Премиальный редизайн, оптимизация и полный перевод на русский v2.1 популярного англоязычного скрипта удаления сообщений (на базе Undiscord от victornpb). Добавлены симуляция (Dry Run), закрепленный футер, устранены утечки памяти и лаги. Автор редизайна и перевода: Lukider.
-// @namespace     https://github.com/lukider/deletediscordmessages
+// @namespace     https://github.com/Lukider228/discord-premium-userscripts
 // @version       2.1
 // @match         https://discord.com/*
 // @grant         none
